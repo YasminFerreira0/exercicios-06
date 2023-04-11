@@ -1,8 +1,10 @@
 #include <stdio.h>
 void main ()
+
+/*Faça um programa que dados um número real x e um natural n, exiba a potência xn.*/
 {
     int x, n, r, i;
-    printf("Infoeme o valor dda base: ");
+    printf("Infoeme o valor da base: ");
     scanf("%d", &x);
 
     printf("\nInforme o numero do expoente: ");

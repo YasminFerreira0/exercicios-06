@@ -1,5 +1,7 @@
 #include <stdio.h>
 void main ()
+
+/*Escreva um programa para ler as notas da 1a e 2a avaliação de um aluno, calcule e imprima a média (simples) semestral. Só devem ser aceitos valores válidos durante a leitura (0 a 10) para cada nota.*/
 {
     float n1, n2, media;
     do{
