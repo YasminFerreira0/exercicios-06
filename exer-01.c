@@ -4,6 +4,7 @@ void main ()
 {
     int i = 0;
 
+    printf("\nNumeros pares de zeroo a dez: \n");
     while (i <= 10) {
         if (i % 2 == 0) {
             printf("%d ", i);
